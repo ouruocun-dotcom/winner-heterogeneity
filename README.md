@@ -36,6 +36,7 @@ python fig2_validation.py
 |---|---|---|---|
 | `fig1_theory.py` | `fig1_theory.png` | < 1 s | Figure 1: Theoretical predictions (logistic P, d vs asymmetry) |
 | `fig2_validation.py` | `fig2_validation.png` | ~30 s | Figure 2: Universal validation on 102 communities |
+| `figS_supplementary.py` | `figS1_bradley_terry.png`, `figS2_n3_basins.png` | ~2 min | SM Figures S1-S2: Bradley-Terry failure + N=3 basins |
 | `supplementary_analysis.py` | `supplementary_results.json`, `table_*.json` | ~2 min | ALL numerical claims in the paper, including saddle verification, Bradley-Terry failure, N=3 basins, temporal dynamics |
 
 ### What `supplementary_analysis.py` verifies
