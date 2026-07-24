@@ -6,7 +6,6 @@ Reproducible code and data for all figures in:
 >
 > Ruocun Ou, Nanyang Normal University
 >
-> Submitted to *Physical Review Letters*
 
 ## Core result
 
